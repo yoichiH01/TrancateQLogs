@@ -13,7 +13,8 @@ The Script to trancate all of the log entries and archived enties in QLogs Table
 6. Script runs and the entiers in QLogs Table will be deleted
 
 # Requirement
-Qlik Sense September 2017 or later
+-. Qlik Sense September 2017 or later
+-. QLogs database is installed locally(on Qlik Sense Central node)
 
 
 # Disclaimer
